@@ -30,7 +30,7 @@ Libft is an project that requieres us to re-create some standard C library funct
 * [Bonus Part](#Bonus-Part): Functions that will be useful for linked list manipulation.
 * [Other and Personal](#Other-and-Personal): Functions I believe will be useful later.
 
-<!--- ## List of functions
+List of functions
 
 Part 1 | Part 2| Bonus part | Other and personal
 :----------- | :-----------: | :-----------: | -----------:
@@ -57,7 +57,7 @@ Part 1 | Part 2| Bonus part | Other and personal
 [ft_atoi](#ft_atoi)		||| 
 [ft_calloc](#ft_calloc)		||| 
 [ft_strdup](#ft_strdup)		||| 
---->
+
 
 ## Function description
 
